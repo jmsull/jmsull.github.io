@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Research
+permalink: /research/
 ---
 
 Some information about you!
@@ -10,6 +10,3 @@ Some information about you!
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
-
-[jmsullivan@berkeley.edu](mailto:jmsullivan@berkeley.edu)
