@@ -25,7 +25,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: cosmo_sullivan
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-
+  orcid: 0000-0003-1964-0836
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
