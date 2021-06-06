@@ -10,6 +10,14 @@ permalink: /publications_talks/
 
 [arXiv]( https://arxiv.org/search/astro-ph?searchtype=author&query=Sullivan%2C+J+M  )
 
-### List of Publications 
+### (Some) Publications 
 
 Under construction!
+
+### (Some) Talks
+
+Under construction!
+
+### Other
+
+[My astrobites!](https://astrobites.org/author/jsullivan/)
