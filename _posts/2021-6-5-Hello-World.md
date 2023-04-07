@@ -3,8 +3,7 @@ layout: post
 title: Test Post
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-Test text
+Under construction! See the [Research](https://jmsull.github.io/research/)/[About](https://jmsull.github.io/about/) pages
