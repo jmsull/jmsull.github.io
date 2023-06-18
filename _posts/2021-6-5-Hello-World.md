@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Test Post
+title: Welcome!
 ---
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+<!-- ![_config.yml]({{ site.baseurl }}/images/config.png) -->
 
-Under construction! See the [Research](https://jmsull.github.io/research/)/[About](https://jmsull.github.io/about/) pages
+Actual posts are under construction! 
+See the [Research](https://jmsull.github.io/research/)/[About](https://jmsull.github.io/about/) pages for some actual information.
