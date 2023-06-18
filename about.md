@@ -1,9 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
 I'm Jamie Sullivan, a cosmology PhD student at Berkeley working with [Uroš Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak) in the [Berkeley Center for Cosmological Physics](http://bccp.berkeley.edu/people/). 
 
 I build numerical models of large-scale structure and try to learn something from them along the way. Some of that learning from modern statistical inference tools, which I've also spent some time developing.
