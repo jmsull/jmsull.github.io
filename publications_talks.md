@@ -19,6 +19,8 @@ permalink: /publications_talks/
 
 [Learning to Concentrate: Multi-tracer Forecasts on Local Primordial Non-Gaussianity with Machine-Learned Bias]( {{site.url}}/images/fnl_ml_forecast.pdf )
 
+[Deterministic Langevin Optimization]( {{site.url}}/images/SIAMOP23.pdf )
+
 [Hybrid Small-scale Two-point Modeling with HZPT]( {{site.url}}/images/HZPT+-5_11.pdf )
 
 
