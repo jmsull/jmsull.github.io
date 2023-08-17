@@ -12,6 +12,7 @@ permalink: /publications_talks/
 
 [ORCiD]( https://orcid.org/0000-0003-1964-0836 )
 
+[iNSPIRE] ( https://inspirehep.net/authors/2688834 )
 
 ### (Some) Talks
 
