@@ -4,11 +4,9 @@ title: Publications + Talks
 permalink: /publications_talks/
 ---
 
-### Publications (NASA ADS/arXiv/ORCiD links)
+### Publications (NASA ADS/ORCiD/iNSPIRE links)
 
-[ADS]( https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A%22%5ESullivan%2C%20James%20M%22%2C%20year%3A2015-&sort=date%20desc%2C%20bibcode%20desc&p_=0 )
-
-[arXiv]( https://ui.adsabs.harvard.edu/search/q=orcid%3A%200000-0003-1964-0836&sort=date%20desc%2C%20bibcode%20desc&p_=0  )
+[ADS]( https://ui.adsabs.harvard.edu/search/q=orcid%3A%200000-0003-1964-0836&sort=date%20desc%2C%20bibcode%20desc&p_=0 )
 
 [ORCiD]( https://orcid.org/0000-0003-1964-0836 )
 
