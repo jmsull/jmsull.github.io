@@ -7,7 +7,7 @@ I'm currently a [DoE Office of Science Graduate Student Research](https://scienc
 
 While in the Bay area, I've had the wonderful experience of serving as STEM faculty at [Mount Tamalpais College](https://www.mttamcollege.edu/) for the last couple of years. Through MTC, I've taught Intermediate Algebra, Physics I (with Lab), and Statistics for college credit in San Quentin State Prison as lecturer/co-instructor. 
 
-If you're so inclined, and some talk slides and paper links can be found [here](https://jmsull.github.io/publications_talks/). 
+If you're so inclined, some talk slides and paper links can be found [here](https://jmsull.github.io/publications_talks/). 
 
 
 ### Contact me
