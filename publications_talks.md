@@ -26,7 +26,7 @@ permalink: /publications_talks/
 
 [Hybrid Small-scale Two-point Modeling with HZPT]( {{site.url}}/images/HZPT+-5_11.pdf )
 
-
 ### Other
 
-[My astrobites!](https://astrobites.org/author/jsullivan/)
+[Astrobites](https://astrobites.org/) is a grad student-run, AAS supported blog that summarizes recent astrophysical research papers at an undergraduate level.
+I was an author and editor for 2 years, and wrote 14 astrobites - [here they are!](https://astrobites.org/author/jsullivan/) I also servied as editorial co-chair, developing editorial guidelines, editing and posting 100+ undergraduate research and guest post submissions, and managing the editorial committee.

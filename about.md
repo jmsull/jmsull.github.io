@@ -5,9 +5,9 @@ I'm an author of the differentiable Boltzmann solver [Bolt](https://github.com/x
 
 I'm currently a [DoE Office of Science Graduate Student Research](https://science.osti.gov/wdts/scgsr) awardee, and was a [DoE Computational Science Graduate Fellow](https://www.krellinst.org/csgf/) for 4 years prior.
 
-While in the Bay area, I've had the wonderful experience of serving as STEM faculty at [Mount Tamalpais College](https://www.mttamcollege.edu/) for the last couple of years. Through MTC, I've taught Intermediate Algebra, Physics I (with Lab), and Statistics for college credit in San Quentin State Prison as lecturer/co-instructor. 
+While in the Bay area, I've had the wonderful experience of serving as STEM faculty at [Mount Tamalpais College](https://www.mttamcollege.edu/) for the last couple of years. Through MTC, I've taught Intermediate Algebra, Physics I (with Lab), and Statistics for college credit in San Quentin State Prison as lecturer/co-instructor. See more [here]({{ site.baseurl }}/teaching/).
 
-If you're so inclined, some talk slides and paper links can be found [here](https://jmsull.github.io/publications_talks/). 
+If you're so inclined, some talk slides and paper links can be found [here]({{ site.baseurl }}/publications_talks/). 
 
 
 ### Contact me
