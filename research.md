@@ -10,9 +10,18 @@ Under construction!
 
 ## Here are some things I've worked on:
 
+### Primordial non-Gaussianity:
+"[Inflation](https://ned.ipac.caltech.edu/level5/Liddle/Liddle_contents.html)" is our model for the Universe in its earliest moments. There is a zoo of possible inflationary models, which we can only sort through based on their downstream impact on cosmological measurements. For the forseeable future, the best way to characterize an especially interesting subset of these models ([multi-field models](https://arxiv.org/abs/astro-ph/0702187)) is with galaxy surveys. 
+This is because galaxy surveys are especially well-suited for measuring *local primordial non-Gaussianity* (LPNG), which is an observable signature in the statistics of galaxies that is closely associated with multi-field inflation.
+
+Specifically, I work on using the influence of early universe physics on galaxy formation through the phenomenon of [*galaxy bias*](https://arxiv.org/abs/1611.09787), which connects the statistics of primordal flucturations to the statistics of galaxies. For LPNG, this kind of galaxy bias can be understood as due to the gravitational potential [[^1]] modulating the number of galaxies that form in different parts of the universe through the *variance* of the matter density field:
+
+[<img src="{{ site.baseurl }}/images/lpng_schematic.png" alt="" style="width: 500;"/>]({{ site.baseurl }}/) 
+
+This galaxy bias effect will be the primary driver of constraints on multi-field inflation for the forseeable future, and I'm excited to continue working on it!
+
+
 ### Understanding Large-scale Structure
-- Primordial non-Gaussianity: 
-	  "[Inflation](https://ned.ipac.caltech.edu/level5/Liddle/Liddle_contents.html)" is our model for the Universe in its earliest moments. There is a zoo of possible inflationary models, which we can only sort through based on their downstream impact on cosmological measurements. For the forseeable future, the best way to characterize an especially interesting subset of these models [(multi-field models](https://arxiv.org/abs/astro-ph/0702187)) is with galaxy surveys. I work, in my own little way, on developing methods to do just this.
 - The information content of tracers: 
 	  The night of [large-scale structure](https://newscenter.lbl.gov/wp-content/uploads/2022/01/allframe-1000mpc-960x540-1.gif) is dark, but it offers lampposts in the form of luminous tracers, like galaxies and hot gas. It is not very easy to describe how these tracers are located in space, especially when they are almost close enough to overlap. I spent a little time working on this directly, but am thinking about it all the time!
 - Massive neutrinos: 
@@ -25,6 +34,11 @@ Under construction!
 - Active Learning: 
 	  Budgeting is an (un)fortunate part of daily life, but also an important part of scientific investigation. To actually [learn something from a data analysis](https://en.wikipedia.org/wiki/Bayesian_inference), we want to estimate parameters of a model and attach an *uncertainty* to them. When the model for the physical process in question is expensive (e.g. [a simulation that takes hundreds of years on your laptop](https://www.illustris-project.org/about/#:~:text=The%20Illustris%20simulations%20were%20run,%2C%20or%20about%202%2C000%20years)), we can't afford to run it enough times to capture this uncertainty in the usual way. Instead, we can think very carefully about what parameter values we want to evaluate our model at using active learning. I used some machine learning tools (normalizing flows, gaussian processes, and neural networks) to test a new strategy to do this.
 
-I've had the pleasure of working with several people on these problems, including: [Uroš Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak), [Zack Li](https://zack.li/),the [CPAC group at Argonne National Lab](https://cpac.hep.anl.gov/), [Sukhdeep Singh](https://scholar.google.com/citations?user=ss19CkwAAAAJ&hl=en), and others at [BCCP](http://bccp.berkeley.edu/) & [LBNL](https://cosmology.lbl.gov/sem_bcg_future.html).
+I've had the pleasure of working with several people on these problems, including: [Uroš Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak), [Zack Li](https://zack.li/), the [CPAC group at Argonne National Lab](https://cpac.hep.anl.gov/), [Sukhdeep Singh](https://scholar.google.com/citations?user=ss19CkwAAAAJ&hl=en), and others at [BCCP](http://bccp.berkeley.edu/) & [LBNL](https://cosmology.lbl.gov/sem_bcg_future.html).
 I'm also a member of the [DES](https://www.darkenergysurvey.org/), [LSST-DESC](https://lsstdesc.org/), and [CMB-S4](https://cmb-s4.org/) collaborations.
 
+
+
+Notes: 	
+
+[^1]: For the aficionados, the potential $$\phi$$ here is the gauge-invariant Bardeen potential, which, in the late universe, is the *negative* version of the familiar Newtonian potential $$\Phi$$.
