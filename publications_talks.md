@@ -16,7 +16,7 @@ permalink: /publications_talks/
 
 [iNSPIRE]( https://inspirehep.net/authors/2688834 )
 
-### (Some) Talks
+### (Some) Talk slides
 
 [Toward Fast BSM Physics with Bolt (CMB-S4 Meeting 2023)]( https://indico.cmb-s4.org/event/51/contributions/1359/subcontributions/137/attachments/1016/2543/CMBS4_23_Bolt.pdf )
 

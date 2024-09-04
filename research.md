@@ -4,9 +4,10 @@ title: Research
 permalink: /research/
 ---
 
-Under construction!
+Always under construction!
 
-### [CV]({{site.url}}/images/cv_2023.pdf)
+### [CV]({{site.url}}/images/cv_2024.pdf)
+(Last updated 09/2024).
 
 ## Here are some things I've worked on:
 
