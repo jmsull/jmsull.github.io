@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: James Sullivan 
+name: James M. Sullivan | Cosmologist
 
 # Short bio or description (displayed in the header)
-description: PhD student in cosmology at UC Berkeley 
+description: Brinson Prize Fellow, MIT Center for Theoretical Physics
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/jmsull/jmsull.github.io/main/images/profile.jpg
@@ -23,7 +23,7 @@ footer-links:
   instagram:
   linkedin:
   rss: # just type anything here for a working RSS icon
-  twitter: cosmo_sullivan
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   orcid: 0000-0003-1964-0836
 

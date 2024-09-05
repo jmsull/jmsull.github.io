@@ -1,6 +1,7 @@
 I'm Jamie Sullivan, a [Brinson Prize Fellow](https://brinsonfoundation.org/brinson-prize-fellowship-program/) hosted at MIT in the [Center for Theoretical Physics](https://physics.mit.edu/research/labs-centers/center-for-theoretical-physics/).
 
-I build numerical models of large-scale structure and try to learn something physical from them along the way. Some of that learning comes from modern statistical inference tools, which I've also spent some time developing.
+I build models of large-scale structure and try to learn something physical from them along the way. Some of that learning comes from modern statistical inference tools, which I've also spent some time developing.
+I am interested in numerical methods and models of all kinds, especially those that can be understood rigorously.
 I'm an author of the differentiable Boltzmann solver [Bolt](https://github.com/xzackli/Bolt.jl) (with [Zack Li](https://zack.li/)). I'm also a contributor to the high-performance N-body simulation code [HACC](https://cpac.hep.anl.gov/projects/hacc/). To see more of my code (at your own risk) head over to my [github page](https://github.com/jmsull).
 
 I was previously a PhD student in the [Berkeley Center for Cosmological Physics](https://bccp.berkeley.edu/people/) working with [Uroš Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak) where I was a [DoE Computational Science Graduate Fellow](https://www.krellinst.org/csgf/) and a [DoE Office of Science Graduate Student Research](https://science.osti.gov/wdts/scgsr) awardee.
@@ -20,5 +21,14 @@ Some of my talk slides and paper links can be found [here]({{ site.baseurl }}/pu
 
 ### Contact me
 
+Get in touch if you're interested in anything on this page! 
+
 [jms3@mit.edu](mailto:jms3@mit.edu)
-[CTP Directory](https://physics.mit.edu/faculty/jamie-sullivan/)
+
+[CTP page](https://physics.mit.edu/faculty/jamie-sullivan/)
+
+[MKI page](https://www.space.mit.edu/people/james-sullivan/)
+
+[Brinson page](https://brinsonfoundation.org/brinson-prize-fellowship-program/)
+
+[CSGF page](https://www.krellinst.org/csgf/alumni/profile?n=sullivan2018)
